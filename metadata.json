@@ -1,0 +1,6 @@
+{
+  "name": "TapPOS",
+  "description": "Visual multi-business Point of Sale, multi-platform inventory, and real-time analytics app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
